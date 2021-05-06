@@ -5,7 +5,7 @@ Show and Tell: A Neural Image Caption Generator, 2015
 https://arxiv.org/pdf/1411.4555.pdf
 
 Proposal:
-[PROJECT PROPOSAL.docx](https://github.com/Neznakomec/ml-project-transformers/blob/main/PROJECT%20PROPOSAL.docx)
+[PROJECT PROPOSAL.pdf](https://github.com/Neznakomec/ml-project-transformers/blob/main/PROJECT%20PROPOSAL.pdf)
 
 Project goals:
 
