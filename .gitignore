@@ -1,0 +1,7 @@
+1_preprocess_data/text/
+1_preprocess_data/Flicker8k_Dataset/
+1_preprocess_data/__pycache__/
+1_preprocess_data/__MACOSX/
+1_preprocess_data/.ipynb_checkpoints/
+1_preprocess_data/.idea/
+*.zip
