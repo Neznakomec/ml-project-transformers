@@ -5,3 +5,6 @@
 1_preprocess_data/.ipynb_checkpoints/
 1_preprocess_data/.idea/
 *.zip
+2_train_network/Flicker8k_Dataset/
+2_train_network/.ipynb_checkpoints/
+2_train_network/__pycache__/
