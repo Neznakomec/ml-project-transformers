@@ -9,7 +9,7 @@ Proposal:
 
 Project goals:
 
-1. Try to reproduce image encoding NN model.
+1. Try to reproduce image captioning NN model.
 
 2. Train the model on different datasets.
 
